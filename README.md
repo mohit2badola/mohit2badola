@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohit2badola
-- 👀 I’m interested in ...web-technology and C programming also a bit of Linux
-- 🌱 I’m currently learning ... Web development and C
-- 💞️ I’m looking to collaborate on ... indtagram
+- 🌱 I’m currently learning ... Python, Databse and Data Structure and Algorithm
+- 💞️ I’m looking to collaborate on ... instagram
 - 📫 How to reach me ...@badolamohit52
 
 <!---
