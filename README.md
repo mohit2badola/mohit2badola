@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohit2badola
 - 🌱 I’m currently learning ... Python, Databse and Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on ... instagram
-- 📫 How to reach me ...gmail-badolamohit52@gmail.com  || mohit.21239@stu.upes.ac.in
+- 📫 How to reach me ...- badolamohit52@gmail.com  || - cmohit.21239@stu.upes.ac.in
   
 
 <!---
