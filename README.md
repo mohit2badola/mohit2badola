@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mohit2badola
 - 🌱 I’m currently learning ... Python, Databse and Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on ... instagram
-- 📫 How to reach me ...@badolamohit52
+- 📫 How to reach me ...gmail-badolamohit52@gmail.com  || mohit.21239@stu.upes.ac.in
+  
 
 <!---
 mohit2badola/mohit2badola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
