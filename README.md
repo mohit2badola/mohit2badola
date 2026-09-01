@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DSA in C, Python and Database My SQL<br><br>Studying BCA in UPES 1st year.
+I'm currently working on DSA in C, Python and Database My SQL<br><br>Studying BCA in UPES 2nd year.
 
 
 ## 🌐 Socials:
